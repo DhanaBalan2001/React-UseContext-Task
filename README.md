@@ -23,9 +23,9 @@ Technologies Used
 
 Usage
 
-   1. The initial product list will be displayed on the screen.
-   2. Use the "+" and "-" buttons to increase or decrease the quantity of each item.
-   3. The total quantity and amount will update automatically as you adjust item quantities.
+   - The initial product list will be displayed on the screen.
+   - Use the "+" and "-" buttons to increase or decrease the quantity of each item.
+   - The total quantity and amount will update automatically as you adjust item quantities.
    
 License
 
