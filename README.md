@@ -1,8 +1,35 @@
-# React + Vite
+React useContext Task 
+  This React application demonstrates how to create a shopping cart using the Context API for state management. The cart allows users to increase or decrease the quantity of items, automatically updating the total quantity and amount.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+ 
+   - Display a list of products with their price, quantity, and total cost.
+   - Increase or decrease the quantity of each item.
+   - Automatically update the total quantity and amount in the cart.
 
-Currently, two official plugins are available:
+Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+   - React
+   - Context API
+   - React Hooks
+
+ 
+ Key Features
+
+   - View products with prices and quantities.
+   - Adjust item quantities with "+" and "-" buttons.
+   - Real-time updates to total quantity and amount.
+
+Usage
+
+   1. The initial product list will be displayed on the screen.
+   2. Use the "+" and "-" buttons to increase or decrease the quantity of each item.
+   3. The total quantity and amount will update automatically as you adjust item quantities.
+   
+License
+
+  This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+
+
