@@ -1,6 +1,6 @@
 React useContext Task 
 
-   This React application demonstrates how to create a shopping cart using the Context API for state management. The cart allows users to increase or decrease the quantity of items, automatically updating the total quantity and amount.
+     This React application demonstrates how to create a shopping cart using the Context API for state management. The cart allows users to increase or decrease the quantity of items, automatically updating the total quantity and amount.
 
 Features
  
